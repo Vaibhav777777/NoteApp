@@ -1,2 +1,2 @@
 # NoteApp
-saving your one note at this page. by Vaibhav soni
+Saving your notes at this page. by Vaibhav soni
